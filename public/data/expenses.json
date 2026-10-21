@@ -1,0 +1,14 @@
+[
+  { "id": 1, "title": "Ăn trưa", "amount": 45000, "category": "Ăn uống",
+    "date": "2026-10-01", "paid": true },
+  { "id": 2, "title": "Vé xe buýt tháng", "amount": 100000,
+    "category": "Đi lại", "date": "2026-10-02", "paid": true },
+  { "id": 3, "title": "Mua giáo trình React", "amount": 250000,
+    "category": "Học tập", "date": "2026-10-05", "paid": false },
+  { "id": 4, "title": "Xem phim", "amount": 120000, "category": "Giải trí",
+    "date": "2026-10-08", "paid": true },
+  { "id": 5, "title": "Cà phê nhóm", "amount": 35000, "category": "Ăn uống",
+    "date": "2026-10-10", "paid": false },
+  { "id": 6, "title": "Đổ xăng", "amount": 80000, "category": "Đi lại",
+    "date": "2026-10-12", "paid": true }
+]
